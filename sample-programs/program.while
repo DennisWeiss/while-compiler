@@ -1,0 +1,7 @@
+x_2 := x_1 + 0;
+WHILE x_2 != 0 DO
+  LOOP x_2 DO
+    x_0 := x_0 + 1
+  END;
+  x_2 := x_2 - 1
+END
